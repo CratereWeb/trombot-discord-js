@@ -13,5 +13,4 @@ client.on('ready', () => {
    console.log('I am ready!'); 
 });
 
-bot_secret_token = "NzczNjYwMzgwNjQzNTkwMTY0.X6MdYA.uACakKynaBTRExlPEN66thQkA5w"
 client.login(bot_secret_token);
