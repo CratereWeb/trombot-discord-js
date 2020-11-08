@@ -13,4 +13,5 @@ client.on('ready', () => {
    console.log('I am ready!'); 
 });
 
-client.login(bot_secret_token);
+// THIS  MUST  BE  THIS  WAY
+client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
