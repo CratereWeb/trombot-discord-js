@@ -1,16 +1,16 @@
 {
 
-  "name": "Example",
+  "name": "Trombot",
 
-  "description": "Example",
+  "description": "Pin messages",
 
-  "version": "0.0.0",
+  "version": "1.0.0",
 
-  "main": "bot.js",
+  "main": "trombot.js",
 
   "scripts": {
 
-    "start": "node bot.js"
+    "start": "node trombot.js"
 
   },
 
